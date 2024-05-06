@@ -8,6 +8,8 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.openjfx:javafx-controls:15'
+    implementation 'org.openjfx:javafx-fxml:15'
 }
 
 compileJava.options.encoding = 'UTF-8'
